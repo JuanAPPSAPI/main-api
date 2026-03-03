@@ -1,0 +1,15 @@
+{
+  "version": "6.01.5",
+  "name": "Juan MC Launcher",
+  "description": "Una herramienta avanzada para desbloquear e instalar Minecraft for Windows.",
+  "forced-update": false,
+  "type": "Launcher de Juego",
+  "exe-name": "JuanMCLauncher.exe",
+  "download-link": "https://github.com/tu-usuario/repo/releases/download/v1.2.5/setup.exe",
+  "warning": {
+    "title": "APP con BUGS",
+    "text": "Esta aplicación está desactualizada, debido a que Minecraft se ha actualizado mucho.",
+    "btn-cancel": "Volver a la tienda",
+    "btn-continue": "Instalar de todos modos"
+  }
+}

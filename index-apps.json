@@ -1,0 +1,12 @@
+{
+  "available_apps": [
+    {
+      "id": "Juan-BLOX",
+      "path": "versions/JuanBLOX/Juan-BLOX.json"
+    },
+    {
+      "id": "JuanMCLauncher",
+      "path": "versions/JuanMCLauncher/JuanMCLauncher.json"
+    }
+  ]
+}

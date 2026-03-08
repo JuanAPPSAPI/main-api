@@ -6,6 +6,8 @@
   "type": "Launcher de Juego",
   "exe-name": "JuanBLOX.exe",
   "download-link": "https://github.com/JuanAPPSAPI/main-api/releases/download/v3.0.0.3/setup-jblox.exe",
+  "install-path": "%PFiles%/JuanBLOX",
+  "jinfo-name": "JuanBLOX.jinfo",
   "warning": {
     "title": "APP Desactualizada",
     "text": "Esta aplicación está desactualizada, causando inestabilidad extrema.",

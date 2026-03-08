@@ -1,0 +1,15 @@
+{
+  "version": "6.01.5",
+  "name": "Juan BLOX",
+  "description": "Un launcher custom de Roblox, que permite ejecutar Roblox en PCs de gama baja con menos lag.",
+  "forced-update": false,
+  "type": "Launcher de Juego",
+  "exe-name": "JuanBLOX.exe",
+  "download-link": "https://github.com/JuanAPPSAPI/main-api/releases/download/v3.0.0.3/setup-jblox.exe",
+  "warning": {
+    "title": "APP Desactualizada",
+    "text": "Esta aplicación está desactualizada, causando inestabilidad extrema.",
+    "btn-cancel": "Volver a la tienda",
+    "btn-continue": "Instalar de todos modos"
+  }
+}

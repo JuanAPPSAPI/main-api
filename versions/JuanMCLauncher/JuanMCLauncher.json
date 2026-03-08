@@ -7,5 +7,5 @@
   "exe-name": "JuanMCLauncher.exe",
   "download-link": "https://github.com/JuanAPPSAPI/main-api/releases/download/v6.01/JuanMCLauncher_v6.01_setup.zip",
    "install-path": "%PFiles%/JuanBLOX",
-  "jinfo-name": "JuanBLOX.jinfo",
+  "jinfo-name": "JuanBLOX.jinfo"
 }
